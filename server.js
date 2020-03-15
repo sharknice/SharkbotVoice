@@ -80,6 +80,21 @@ function getGreet(name) {
     return false;
 }
 
+app.put('/twitchchat', function (req, res) {
+    if(req.body.priority == 1)
+    {
+        say.stop();
+        talkingNow = false;
+    }
+    if (!talkingNow) {
+        talkingNow = true;
+        say.speak(req.body.message, voice, 1.0, function (error) {
+            talkingNow = false;
+        });
+    }
+    res.send("success");
+});
+
 var server = app.listen(8081, function () {
     var host = server.address().address
     var port = server.address().port
