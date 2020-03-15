@@ -1,0 +1,14 @@
+{
+  "name": "sharkbot-voice",
+  "version": "0.0.0",
+  "description": "SharkbotVoice",
+  "main": "app.js",
+  "author": {
+    "name": "sharknice"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "say": "^0.16.0"
+  }
+}
