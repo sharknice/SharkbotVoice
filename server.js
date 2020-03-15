@@ -1,5 +1,6 @@
 ﻿var say = require('say');
 var express = require('express');
+var bodyParser = require("body-parser");
 var fs = require('fs');
 var cors = require('cors');
 var app = express();
@@ -7,6 +8,7 @@ var app = express();
 const voice = "";//"Microsoft David Desktop"
 
 app.use(cors());
+app.use(bodyParser.json());
 
 let rawdata = fs.readFileSync('voices.json');
 let voices = JSON.parse(rawdata);
