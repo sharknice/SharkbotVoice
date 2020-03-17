@@ -34,7 +34,9 @@
         "yummy snake poop",
         "yummy snake guts",
         "is this cannibalism?",
-        "delicious, finally some good efffing food!"
+        "delicious, finally some good fucking food!",
+        "yummy sausage bits",
+        "that's a mouthful"
     ],
     "kill": [
         "easy",
@@ -63,7 +65,13 @@
         "you suck",
         "sucker",
         "scratch one grub",
-        "lmao"
+        "lmao",
+        "the more you touch it, the bigger it gets.",
+        "Ow! Get this fucking snake off my ass!",
+        "Who's your daddy now, bitch?",
+        "That's what I'm talking about.",
+        "I got bit!",
+        "Sit your ass down"
     ],
     "surrounded": [
         "let me out",
@@ -74,9 +82,14 @@
         "oh no",
         "I don't like this",
         "I'm surrounded",
-        "they're everywhere",
+        "they're everywhere!",
         "crap",
-        "not like this"
+        "not like this",
+        "cock blocked",
+        "you dick",
+        "don't be a dick",
+        "Make it fast. Time is tissue.",
+        "Oh, Lord."
     ],
     "avoidingsurround": [
         "I'll find someplace safer",
@@ -88,7 +101,15 @@
         "don't tread on me",
         "F off",
         "please",
-        "don't look at me like that. It's creepy!"
+        "don't look at me like that. It's creepy!",
+        "this is a sausage fest",
+        "I'm outta this sausage fest",
+        "I have had it with these motherfucking snakes on this motherfucking plane!",
+        "enough is enough!",
+        "Everybody listen! We have to put a barrier between us and the snakes!",
+        "This shit is bananas!",
+        "Why exactly are there snakes on this plane?",
+        "get this guy away from my ass!"
     ],
     "attacking": [
         "I'm going to get you",
@@ -113,7 +134,12 @@
         "I'm going to spill your guts then eat them.",
         "touch me. I dare you.",
         "kiss me",
-        "what happens when I put my snake in your face?"
+        "what happens when I put my snake in your face?",
+        "just the tip",
+        "c'mon just the tip",
+        "taste my sausage",
+        "taste my summer sausage",
+        "You're looking especially delicious this evening."
     ],
     "startGame": [
         "here we go",
@@ -147,7 +173,9 @@
         "too close for comfort",
         "a bit closer than I would like",
         "hello",
-        "monkas"
+        "monkas",
+        "beat it",
+        "weenee"
     ],
     "avoidingborder": [
         "living on the edge",
@@ -167,7 +195,8 @@
         "care",
         "care care",
         "hi there",
-        "hey bud"
+        "hey bud",
+        "that's a penis"
     ],
     "avoidingsmallsnake": [
         "he's just a little guy",
@@ -192,7 +221,11 @@
         "go away fatty",
         "fatty",
         "big",
-        "look who's back from fat camp"
+        "look who's back from fat camp",
+        "that's what you call an optical inch",
+        "you look a little stiff",
+        "looks swollen",
+        "it's big"
     ],
     "avoidinghugesnake": [
         "oh that's a huge one",
@@ -205,7 +238,8 @@
         "hey big boy",
         "thick",
         "thicc",
-        "hello daddy oh"
+        "hello daddy oh",
+        "it's huge"
     ],
     "sameskin": [
         "nice skin",
@@ -217,7 +251,8 @@
         "beautiful",
         "nice body",
         "love the hair",
-        "love you too"
+        "love you too",
+        "He's my brother from anouther mother"
     ],
     "greet": [
         "hello %name",
